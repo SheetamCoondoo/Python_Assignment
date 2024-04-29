@@ -1,2 +1,2 @@
 # Python_Assignment
-Assignment for my Artificial Intelligence class
+Assignment for my Artificial Intelligence projects
