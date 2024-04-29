@@ -1,2 +1,2 @@
-# Python_Assignment
-Assignment for my Artificial Intelligence projects
+# Python_projects
+Assignment for my Python projects
